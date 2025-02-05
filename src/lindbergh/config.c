@@ -269,7 +269,7 @@ static int detectGame(uint32_t elf_crc)
     case HUMMER_SDLX:
     {
         config.gameTitle = "Hummer SDLX";
-        config.gameID = "SBST";
+        config.gameID = "SBQN";
         config.gameDVP = "DVP-0057";
         config.gameReleaseYear = "2008";
         config.gameNativeResolutions = "";
